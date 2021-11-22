@@ -1,0 +1,13 @@
+name: FIFA_Analytics
+title: FIFA_Analytics
+username:
+account: wisnuanggara
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5179479
+bundleId: 5279231
+url: https://wisnuanggara.shinyapps.io/FIFA_Analytics/
+when: 1637575599.21102
+lastSyncTime: 1637575599.21103
+asMultiple: FALSE
+asStatic: FALSE
